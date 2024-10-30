@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test_Zortout_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\repositories\\testrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\repositories\\testrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\external\\zortapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\external\\zortapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\helper\\argumentexceptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\helper\\argumentexceptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\repositories\\interface\\itestrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\repositories\\interface\\itestrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\models\\errorresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\models\\errorresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\entities\\zortexam\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\entities\\zortexam\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\entities\\zortexam\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\entities\\zortexam\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|d:\\test_zortout_api\\test_zortout_api\\models\\request\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E601C825-1163-4D64-8492-352A52C449BF}|Test_Zortout_API\\Test_Zortout_API.csproj|solutionrelative:test_zortout_api\\models\\request\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestRepositories.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Repositories\\TestRepositories.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Repositories\\TestRepositories.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Repositories\\TestRepositories.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Repositories\\TestRepositories.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T02:47:26.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:15:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITestRepositories.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Repositories\\Interface\\ITestRepositories.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Repositories\\Interface\\ITestRepositories.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Repositories\\Interface\\ITestRepositories.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Repositories\\Interface\\ITestRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T07:39:05.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Models\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Models\\AuthenticateResponse.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Models\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Models\\AuthenticateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:24:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZortApi.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\External\\ZortApi.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\External\\ZortApi.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\External\\ZortApi.cs",
+              "RelativeToolTip": "Test_Zortout_API\\External\\ZortApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T09:56:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Program.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Program.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:43:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArgumentExceptionHelper.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Helper\\ArgumentExceptionHelper.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Helper\\ArgumentExceptionHelper.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Helper\\ArgumentExceptionHelper.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Helper\\ArgumentExceptionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:01:33.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorResource.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Models\\ErrorResource.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Models\\ErrorResource.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Models\\ErrorResource.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Models\\ErrorResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:18:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Entities\\ZortExam\\Product.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Entities\\ZortExam\\Product.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Entities\\ZortExam\\Product.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Entities\\ZortExam\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T06:30:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Entities\\ZortExam\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Entities\\ZortExam\\OrderDetail.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Entities\\ZortExam\\OrderDetail.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Entities\\ZortExam\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T06:30:02.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "D:\\Test_Zortout_API\\Test_Zortout_API\\Models\\Request\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "Test_Zortout_API\\Models\\Request\\AuthenticateRequest.cs",
+              "ToolTip": "D:\\Test_Zortout_API\\Test_Zortout_API\\Models\\Request\\AuthenticateRequest.cs",
+              "RelativeToolTip": "Test_Zortout_API\\Models\\Request\\AuthenticateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:39:06.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
